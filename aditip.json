@@ -30,7 +30,7 @@
       "value": "eastus"
     },
     "vmName": {
-      "value": "simple-vm"
+      "value": "simple-vm-tp"
     }
   }
 }
