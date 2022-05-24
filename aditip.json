@@ -9,7 +9,7 @@
       "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "simple-vm-tp-3e6016c578"
+      "value": "toby-vm-tp-3e6016c578"
     },
     "publicIpName": {
       "value": "simple-vm-ip"
@@ -30,7 +30,7 @@
       "value": "eastus"
     },
     "vmName": {
-      "value": "simple-vm-tp"
+      "value": "toby-vm-tp"
     }
   }
 }
