@@ -12,7 +12,7 @@
       "value": "toby-vm-tp-3e6016c578"
     },
     "publicIpName": {
-      "value": "simple-vm-ip"
+      "value": "toby-vm-ip"
     },
     "publicIPAllocationMethod": {
       "value": "Dynamic"
